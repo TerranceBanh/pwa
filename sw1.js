@@ -1,7 +1,7 @@
 const cacheName = 'sw1'
 
 const cacheAssets = [
-  'index1.html'
+  'index.html'
 ]
 
 // Call Install Event
